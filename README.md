@@ -1,6 +1,4 @@
-# analyze-box-office-data
-
-#Project: Analyze Box Office Data with Seaborn and Python
+Project: Analyze Box Office Data with Seaborn and Python
 
 This project is part of a hands-on course titled **"Analyze Box Office Data with Seaborn and Python"**, focusing on building data visualization and exploratory data analysis (EDA) skills using the TMDB dataset.
 
